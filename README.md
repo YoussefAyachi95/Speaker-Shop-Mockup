@@ -1,5 +1,5 @@
 # Speaker Shop Design
-Recreate the mock-up below as accurately as possible, utilising flexbox, positioning, and principles of UI/UX design.
+Mockup for a Speaker Shop, utilising flexbox, positioning, and principles of UI/UX design with SCSS/SASS.
 
 
 ### Design mock-up
@@ -8,9 +8,6 @@ Recreate the mock-up below as accurately as possible, utilising flexbox, positio
 
 
 ### Extras
-
-- Make the page fully responsive
-- Create and link more pages
 
 Font: *Work Sans* from **Google Fonts**
 
